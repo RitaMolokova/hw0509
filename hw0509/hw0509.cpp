@@ -3,6 +3,6 @@
 
 int main()
 {
-    cout << "Hello World!\n";
+    cout << "Hi, I`m Rita!\n";
 }
 
